@@ -1,0 +1,10 @@
+# exact versions of the Colab run (output/run_info.json, Python 3.13)
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+statsmodels==0.15.0
+matplotlib==3.10.0
+yfinance==0.2.66
+# development tools
+pytest>=8.0
+ruff>=0.5
